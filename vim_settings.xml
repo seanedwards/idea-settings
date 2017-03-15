@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1489594394565">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/databases/test.sql" timestamp="1489593268860">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="29" />
