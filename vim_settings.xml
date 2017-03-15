@@ -2,14 +2,44 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Work/databases/test.sql" timestamp="1489593268860">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="[tmportal-dev] CONSOLE - tmportal-dev" timestamp="1489592642973">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwZ19zdGF0X2FjdGl2aXR5IHdoZXJlIHN0YXRlPSdpZGxlIGluIHRyYW5zYWN0aW9uJzsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Y29tbWl0Owo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29tbWl0Owo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
