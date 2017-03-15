@@ -1,3 +1,57 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift r" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="d" />
+  </action>
   <action id="EditorSplitLine" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift e" />
+  </action>
+  <action id="ForceRunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift c" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift i" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="shift n" />
+  </action>
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="space" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="space" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="c" />
+  </action>
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="i" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="o" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="n" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="s" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="b" />
+  </action>
 </keymap>
