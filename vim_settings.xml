@@ -6,7 +6,12 @@
       <file name="/Dummy.txt" timestamp="1489594394565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/partnerplatform-api/src/vela-events/models/events.go" timestamp="1489778034964" />
+      <file name="$USER_HOME$/Work/partnerplatform-api/src/vela-events/models/events.go" timestamp="1490021746692">
+        <mark key="[" line="275" column="9" />
+        <mark key="]" line="275" column="9" />
+        <mark key="^" line="275" column="9" />
+        <mark key="." line="275" column="9" />
+      </file>
       <file name="$USER_HOME$/Work/databases/test.sql" timestamp="1489593268860">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="29" />
