@@ -27,7 +27,6 @@
       <file name="/a.dummy" timestamp="1490110034927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/partnerplatform-api/src/vela-admin/models/notifications.go" timestamp="1490110226868" />
       <file name="$USER_HOME$/Work/tmansible/roles/deploy-environment/vars/all" timestamp="1489594154953">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="24" />
@@ -41,9 +40,12 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBwZ19zdGF0X2FjdGl2aXR5IHdoZXJlIHN0YXRlPSdpZGxlIGluIHRyYW5zYWN0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tbWl0Owo=</text>
+        <text encoding="base64">ZGVmbW9kdWxlIEVsaXhpcnRlc3QgZG8KZW5kCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmbW9kdWxlIEVsaXhpcnRlc3QgZG8KZW5kCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Y29tbWl0Owo=</text>
       </register>
       <register name=":" type="4">
