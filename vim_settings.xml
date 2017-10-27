@@ -70,11 +70,11 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/RxIde.kt" timestamp="1509131589374">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/RxIde.kt" timestamp="1509142882493">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
         <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/Hello.kt" timestamp="1509130912086">
         <mark key="[" line="6" column="0" />
@@ -103,7 +103,7 @@
         <text encoding="base64">Y2xhc3MgVHJlZVZpZXdBcHAgOiBBcHAoKSB7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Application.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y2xhc3MgVHJlZVZpZXdBcHAgOiBBcHAoKSB7Cg==</text>
@@ -118,7 +118,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Application.</text>
       </register>
     </registers>
     <search>
