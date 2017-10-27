@@ -12,11 +12,11 @@
         <mark key="^" line="275" column="9" />
         <mark key="." line="275" column="9" />
       </file>
-      <file name="$USER_HOME$/Work/databases/test.sql" timestamp="1489593268860">
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/RxIDE/ide/pom.xml" timestamp="1509131883805">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="51" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="51" column="51" />
       </file>
       <file name="[tmportal-dev] CONSOLE - tmportal-dev" timestamp="1489592642973">
         <mark key="[" line="0" column="0" />
@@ -24,8 +24,63 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/RxIDE/engine/pom.xml" timestamp="1509130384040">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1490110034927">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/resources/rxide/views/IdeWindow.fxml" timestamp="1509132175150">
+        <mark key="[" line="7" column="83" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="81" />
+        <mark key="^" line="7" column="81" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/RxIDE.kt" timestamp="1509130933958">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/views/Main.kt" timestamp="1509131226165">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Work/databases/test.sql" timestamp="1489593268860">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/views/IdeWindow.kt" timestamp="1509131328903">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/resources/rxide/Main.fxml" timestamp="1509131245468">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/RxIde.kt" timestamp="1509131589374">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/Hello.kt" timestamp="1509130912086">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Work/tmansible/roles/deploy-environment/vars/all" timestamp="1489594154953">
         <mark key="[" line="16" column="50" />
@@ -33,23 +88,37 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="/fragment.java" timestamp="1509131596664">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="6" column="6" filename="$USER_HOME$/RxIDE/ide/src/main/kotlin/rxide/views/Main.kt" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBwZ19zdGF0X2FjdGl2aXR5IHdoZXJlIHN0YXRlPSdpZGxlIGluIHRyYW5zYWN0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIEVsaXhpcnRlc3QgZG8KZW5kCg==</text>
+        <text encoding="base64">Y2xhc3MgVHJlZVZpZXdBcHAgOiBBcHAoKSB7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIEVsaXhpcnRlc3QgZG8KZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgVHJlZVZpZXdBcHAgOiBBcHAoKSB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmbW9kdWxlIEVsaXhpcnRlc3QgZG8KZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y29tbWl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
